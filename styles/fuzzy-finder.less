@@ -5,3 +5,14 @@
   color: @text-color-highlight;
   font-weight: bold;
 }
+.overlay, atom-panel.modal{
+  z-index: auto;
+}
+atom-panel.modal {
+    background-color: auto !important;
+    max-width: 40em !important;
+    margin: 60px auto !important;
+}
+atom-panel.modal:before {
+    border-radius: 0px !important;
+}
