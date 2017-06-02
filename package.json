@@ -1,5 +1,5 @@
 {
-  "name": "fuzzy-finder",
+  "name": "hoffy-finder",
   "version": "1.5.8",
   "main": "./lib/main",
   "description": "Open an editor to a file in the project with `cmd-t`.",
